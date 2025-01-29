@@ -14,3 +14,6 @@ The article advocates for a **scientific approach** to technology selection, adv
 - Compare their **benefits and drawbacks**  
 
 By doing so, engineers can ensure that the chosen technology **meets their actual needs** rather than blindly following industry trends.
+
+**Jiaxi's Note**:
+- The article is a **valuable reminder** that software engineers should **think critically** about their technology choices.
